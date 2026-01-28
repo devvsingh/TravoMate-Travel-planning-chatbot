@@ -46,7 +46,7 @@ TravoMate is an AI-powered travel planning chatbot that generates personalized i
 
 ###  Clone the repository and run
 ```bash
-git clone https://github.com/your-username/travomate.git
+git clone https://github.com/devvsingh/TravoMate-Travel-planning-chatbot.git
 cd travomate
 
 pip install -r requirements.txt
